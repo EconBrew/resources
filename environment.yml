@@ -8,3 +8,6 @@ dependencies:
   - numba
   - jax
   - jupyter
+  - pip
+  - pip:
+      - snakeviz
