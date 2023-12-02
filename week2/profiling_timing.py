@@ -36,5 +36,3 @@ floor_consumption = 0.1
 disutility = 0.5
 
 utility_of_choice = calc_choosen_utility(consumption_agents, floor_consumption, disutility)
-
-np.save("consumption.npy", utility_of_choice)
